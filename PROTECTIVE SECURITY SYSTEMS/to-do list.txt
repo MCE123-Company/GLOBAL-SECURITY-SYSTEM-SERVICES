@@ -1,0 +1,8 @@
+INTELLECTUAL PROPERTY - PATRICK R. MCELHINEY
+
+false arrest prevention - prevents false arrests, including because of systematic mistakes by systems
+impeachment prevention - prevents impeachment of The President
+constitutional change system - allows changing the Constitution for important issues with Ammendments
+legislation system - allows Congressional candidates to write legislation
+bad software removal system - removes and deletes source code that is bad
+bad software code fix system - fixes source code and recompiles, without changing a previous version, and reloads a system
