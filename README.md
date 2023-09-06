@@ -5,6 +5,8 @@
  
  The Pentagon specified what is in this software.
 
+ This system is a Highly Secured Highly Available System.
+
  These files are not licensed for public use, and must be licensed from Patrick Russell McElhiney at MCE123 prior to any usage.
  These files cannot be sold by anyone or anything except Patrick Russell McElhiney, directly, in-person, born on 10/18/1983 at
  Damean Hospital in Stockton, CA, from parents Diane June Labrie-McElhiney and Michael Arthur McElhiney.
