@@ -1,2 +1,3 @@
-include git@github.com:MCE123-Company/CYBER-SECURITY-SYSTEMS.git;
 include git@github.com:MCE123-Company/ANTI-EXECUTION-PROTECTION-SYSTEMS.git;
+include git@github.com:MCE123-Company/ARTIFICIAL-INTELLIGENCE-TRAINING-SECURITY-SYSTEMS.git
+include git@github.com:MCE123-Company/CYBER-SECURITY-SYSTEMS.git;
