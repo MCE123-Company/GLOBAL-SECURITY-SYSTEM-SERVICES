@@ -1,6 +1,6 @@
-# AIRLINE DEFENSE SECURITY SYSTEMS
-© GLOBAL SECURITY SYSTEM SERVICES, © AIRLINE DEFENSE SECURITY SYSTEMS, © MCE123, © 2020-2024 Patrick Russell McElhiney, All Rights Reserved.
-Airline Defense Security Systems is an all-encompassing software suite that comprehensively stops illegal things from occurring in relation to any airline or any aircraft.
+# GOVERNMENT DEFENSE SECURITY SYSTEMS
+© GLOBAL SECURITY SYSTEM SERVICES, © GOVERNMENT DEFENSE SECURITY SYSTEMS, © MCE123, © 2020-2024 Patrick Russell McElhiney, All Rights Reserved.
+Government Defense Security Systems is an all-encompassing software suite that comprehensively stops illegal things from occurring in relation to any government or any employee of any government or any property of any government.
 
 These files are not licensed for public use, and must be licensed from Patrick Russell McElhiney at MCE123 prior to any usage.
 These files cannot be sold by anyone or anything except Patrick Russell McElhiney.
