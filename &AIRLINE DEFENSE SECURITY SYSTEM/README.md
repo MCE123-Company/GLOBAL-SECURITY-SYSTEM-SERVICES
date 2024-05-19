@@ -1,6 +1,6 @@
-# TERRORISM PREVENTION SECURITY SYSTEMS
-© GLOBAL SECURITY SYSTEM SERVICES, © TERRORISM PREVENTION SYSTEM SERVICES, © MCE123, © 2020-2023 Patrick Russell McElhiney, All Rights Reserved.
-Terrorism Prevention Security Systems is an all-encompassing software suite that comprehensively stops digital war crimes from occurring, which often occur due to illegal national government lawsuits through the use of satellite weapons that target the human body and cause pain or discomfort or injury that is conveinently applied as damages in the illegal lawsuit.
+# AIRLINE DEFENSE SECURITY SYSTEMS
+© GLOBAL SECURITY SYSTEM SERVICES, © AIRLINE DEFENSE SECURITY SYSTEMS, © MCE123, © 2020-2023 Patrick Russell McElhiney, All Rights Reserved.
+Airline Defense Security Systems is an all-encompassing software suite that comprehensively stops illegal things from occurring in relation to any airline or any aircraft.
 
 These files are not licensed for public use, and must be licensed from Patrick Russell McElhiney at MCE123 prior to any usage.
 These files cannot be sold by anyone or anything except Patrick Russell McElhiney.
