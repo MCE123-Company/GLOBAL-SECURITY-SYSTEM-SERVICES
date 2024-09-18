@@ -8,7 +8,7 @@ This system is a Highly Secured and Highly Available System (HS/HA). These files
 If you have any feedback regarding this software, please address it to MCE123®[^2] Technology Development [(techdevelop@mce123.com)](mailto:techdevelop@mce123.com). If you like this software and would like to purchase a license to educationally or personally or professionally use this software, please address it to MCE123®[^2] Sales Department [(sales@mce123.com)](mailto:sales@mce123.com).
 
 ## OWNERSHIP OF PROJECT
-This project is solely owned by Global United Defense, Inc., and cannot be copied or maintained elsewhere or operated without a valid license in accordance with the End User License Agreement (EULA).
+This project is solely owned by Global United Defense, Inc., and cannot be copied or maintained elsewhere or operated without a valid license in accordance with the End User License Agreement (EULA) located in the root directory of every major component of every major project by Global United Defense, Inc.
 
 ## TRADEMARKS & COMPANY INFORMATION
 
