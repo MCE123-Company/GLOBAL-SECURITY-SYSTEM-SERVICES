@@ -7,10 +7,14 @@ This system is a Highly Secured and Highly Available System (HS/HA). These files
 
 If you have any feedback regarding this software, please address it to MCE123®[^2] Technology Development [(techdevelop@mce123.com)](mailto:techdevelop@mce123.com). If you like this software and would like to purchase a license to educationally or personally or professionally use this software, please address it to MCE123®[^2] Sales Department [(sales@mce123.com)](mailto:sales@mce123.com).
 
+## OWNERSHIP OF PROJECT
+This project is solely owned by Global United Defense, Inc., and cannot be copied or maintained elsewhere or operated without a valid license in accordance with the End User License Agreement (EULA).
+
 ## TRADEMARKS & COMPANY INFORMATION
 
 [^1]: The phrase "Global Security System Services®" belongs to Global United Defense, Inc. of Barrington, NH.
-[^2]: The MCE123® wordmark belongs to MCE123®, Inc.[^3] of Barrington, NH.
+[^2]: The wordmark "MCE123" belongs to MCE123®, Inc.[^3] of Barrington, NH, USPTO Reg. No. 3,844,724.
 [^3]: The company, MCE123®, Inc. will be owned and operated by Patrick R. McElhiney in the future, upon being founded in Barrington, NH whenever financial conditions permit.
+[^4]: The company, Global United Defense®, Inc. will be owned and operated by Patrick R. McElhiney in the future, upon being founded in Barrington, NH whenever financial conditions permit.
 
-The above referenced wordmark and phrase, indicate future planned registered trademarks, to be purchased whenever funding arrives to fund the further development of MCE123, Inc. and Global United Defense, Inc.
+The above referenced wordmark and phrase, indicate future planned registered trademarks, to be purchased whenever funding arrives to fund the further development of MCE123, Inc.[^3] and Global United Defense, Inc.[^4]
